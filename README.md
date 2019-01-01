@@ -10,7 +10,7 @@ update sync    (will sync local drive with s3 website and update cdn)
 ```
 
 $ update index
-skippign sync...
+skipping sync...
 aws s3 cp index.html s3://caseydeceramics.com/index.thml
 upload: ./index.html to s3://caseydceramics.com/index.html
 .....sleeping 3
