@@ -12,6 +12,7 @@ body {
     top: 0; 
     left: 0; 
     background-color: #DDEEEE; 
+    background-image: "background.png";
     width: 100%; 
   }
   div#banner-content { 
