@@ -29,9 +29,8 @@ body {
   }
   div#main-content { 
     padding-top: 70px;
-    padding: 10px;
  }
 
  footer {
-     padding: 10px;
+     padding-left: 10px;
  }
