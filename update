@@ -9,7 +9,7 @@ fi
 
 if [[ $SYN == "sync" ]]; then
 echo "aws s3 sync .  s3://caseydeceramics.com/ .."
-#aws s3 sync  .  s3://caseydceramics.com/
+aws s3 sync  .  s3://caseydceramics.com/
 
 else 
 echo "skippign sync..."
