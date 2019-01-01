@@ -7,20 +7,25 @@ body {
     padding: 0;
   }
 
+  a {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+  }
   div#banner { 
     position: absolute; 
     top: 0; 
     left: 0; 
-    background-color: #DDEEEE; 
-    background-image: "background.png";
+    background-color: #fff; 
+    /* background-image: "background.png"; */
     width: 100%; 
   }
   div#banner-content { 
     width: 800px; 
     margin: 0 auto; 
     padding: 10px; 
-    border: 1px solid #000;
-    background-color: #000; 
+    /* border: 1px solid #000; */
+    background-color: #fff; 
   }
   div#main-content { 
     padding-top: 70px;
